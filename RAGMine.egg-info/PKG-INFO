@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: RAGMine
+Version: 0.1.0
+Summary: A prebuilt RAG pipeline framework for GenAI solutions
+Author: Saurabh Dubey
+Requires-Dist: langchain
+Requires-Dist: openai
+Requires-Dist: chromadb
+Requires-Dist: pymupdf
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: tqdm
+Requires-Dist: pandas
+Requires-Dist: llama-cpp-python
+Requires-Dist: requests
+Requires-Dist: pymongo[srv]

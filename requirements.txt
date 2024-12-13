@@ -1,0 +1,41 @@
+# LangChain for handling language model pipelines
+langchain
+
+# OpenAI for integration with OpenAI models
+openai==0.28.0
+
+# Chroma for vector storage (or replace with a different vector DB package as needed)
+chromadb
+
+# PyMuPDF for PDF reading and text extraction (an alternative is pdfplumber or PyPDF2)
+PyMuPDF
+
+# FastAPI for optional API support (include if you want to expose an API)
+fastapi
+uvicorn
+
+# Additional tools for parsing and processing text
+tqdm
+pandas
+
+# Any other language model integrations you plan to support (e.g., llama-cpp-python for LLaMA models)
+llama-cpp-python
+
+# Requests for making HTTP calls if needed
+requests
+
+# Optional: MongoDB integration (or another database package)
+pymongo[srv]
+
+# Installing setuptool for packaging
+setuptools
+
+#Install Lanchain_Community for community models
+langchain_community
+
+#Install tiktoken
+tiktoken
+
+# Install colorama
+colorama
+

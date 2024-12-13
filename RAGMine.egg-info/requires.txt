@@ -1,0 +1,11 @@
+langchain
+openai
+chromadb
+pymupdf
+fastapi
+uvicorn
+tqdm
+pandas
+llama-cpp-python
+requests
+pymongo[srv]
